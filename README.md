@@ -1,5 +1,3 @@
-# finetuning-senior-project-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
