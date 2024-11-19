@@ -1,2 +1,2 @@
 # finetuning-senior-project-
-my finetuning senor project description
+my finetuning senior project description
