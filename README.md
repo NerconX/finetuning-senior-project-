@@ -3,7 +3,6 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Pretrained Language Models and Finetuning Approaches</title>
 </head>
 <body>
    <h1>Pretrained Language Models and Finetuning Approaches</h1>
