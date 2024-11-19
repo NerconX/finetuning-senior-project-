@@ -154,16 +154,5 @@ project/
        <li>Task-specific performance metrics for each application</li>
    </ul>
 
-   <h2>Author</h2>
-   <p>George Medina<br>
-   University of Houston-Downtown<br>
-   Fall 2023</p>
-
-   <h2>Acknowledgments</h2>
-   <ul>
-       <li>Faculty Advisor: Subash Pakhrin</li>
-       <li>Course Instructor: Dr. Ling Xu</li>
-   </ul>
-
 </body>
 </html>
